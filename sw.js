@@ -1,4 +1,4 @@
-const CACHE_NAME = 'AppIA_v2';
+const CACHE_NAME = 'AppIA_v3';
 const ASSETS = [
   './',
   './index.html',
