@@ -176,7 +176,7 @@ header {
     background: transparent;
     color: var(--color_texto_IA);
     font-size: var(--tamano_fuente_IA);
-    font-weight: 800;
+    font-weight: 400;
     line-height: 1.1;
 
     animation: fadeIn 0.8s ease;
